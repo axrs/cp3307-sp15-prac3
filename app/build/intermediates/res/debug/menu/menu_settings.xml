@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ninja.terrorbyte.cp3307sp15_prac3.SettingsActivity">
+
+</menu>
+<!-- From: file:/Users/xander/AndroidStudioProjects/CP3307SP15-Prac3/app/src/main/res/menu/menu_settings.xml -->
